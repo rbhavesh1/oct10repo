@@ -13,5 +13,5 @@ welcome_page:
     - contents: |
         <!doctype html>
         <body>
-            <h1>Hello, world.</h1>
+            <h1>Hello, world!</h1>
         </body>
